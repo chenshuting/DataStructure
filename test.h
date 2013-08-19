@@ -17,9 +17,15 @@
  */
 
 enum{
-	SLIST = 1
+	SLIST = 1,
+	CSTACK,
+	BTREE
 };
 
 void print_choice();
 
 void SList_test();
+
+void CStack_test();
+
+void BTree_test();
