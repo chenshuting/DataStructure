@@ -1,9 +1,8 @@
-#DataStructure
+DataStructure
 =============
-
 Implement the major data structures
 
-##[SList.h/Slist.c]
+#SList.h/Slist.c
   
   <p>Implement singly linked list, which is including following functions:</p>
   
@@ -17,7 +16,7 @@ Implement the major data structures
   <li>int SL_find(SList_t *, int);
   </ul>
   
-  ###<test case>
+  ##test case
   <ol>
     <li>find element in list</li>
     <li>insert new element to end</li>
@@ -27,7 +26,7 @@ Implement the major data structures
     <li>create list</li>
   <ol>
   
-##[CStack.h/CStack.c]
+#CStack.h/CStack.c
 
   <p>Implement an integer stack strucures, which is including following functions:</p>
   
@@ -40,7 +39,7 @@ Implement the major data structures
   <li>void CS_print(CStack_t *stack);</li>
   </ul>
   
-   ###<test case>
+   ##test case
     <ol>
     <li>Create by size</li>
     <li>push element into stack</li>
@@ -50,7 +49,7 @@ Implement the major data structures
     <li>print stack</li>
     </ol>
     
-##[VStack.h/VStack.c]
+#VStack.h/VStack.c
 
  <p>Implement a void * pointer stack strucure, which is including following functions:</p>
   
@@ -63,7 +62,7 @@ Implement the major data structures
   <li>int is_empty(VStack_t *stack);</li>
   </ul>
   
-##[BTree.h/BTree.c]
+#BTree.h/BTree.c
 
   <p>Implement a binary tree structure, which is including following functions:</p>
   
@@ -82,7 +81,7 @@ Implement the major data structures
   <li>void BN_post_print_r(BinaryNode_t *root, char flag, int step);</li>
   </ul>
   
-  ###<test case>
+  ##test case
   <ol>
     <li>Create Binary tree by size</li>
     <li>Insert element into binary tree</li>
