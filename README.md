@@ -93,5 +93,5 @@ Implement the major data structures
     <li>print binary tree in prev order by stack</li>
     <li>print binary tree in mid order by stack</li>
     <li>print binary tree in post order by stack</li>
-    <li>Destroy binary tree\n");
+    <li>Destroy binary tree
   </ol>
