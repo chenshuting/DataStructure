@@ -25,7 +25,7 @@ Implement the major data structures
     <li>destroy list</li>
     <li>create list</li>
   <ol>
-  
+
 #CStack.h/CStack.c
 
   <p>Implement an integer stack strucures, which is including following functions:</p>
